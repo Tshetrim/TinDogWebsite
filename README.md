@@ -1,3 +1,3 @@
-https://tshetrim.github.io/TinDogWebsite/
+Link to website: https://tshetrim.github.io/TinDogWebsite/
 
 Bootstrap designed website with funny twist on Tinder
